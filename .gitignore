@@ -1,0 +1,5 @@
+*.pyc
+.vscode/*
+data_set/*
+!data_set/empty.txt
+data/__pycache__/*
